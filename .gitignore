@@ -1,0 +1,16 @@
+.idea/
+.vscode/
+.DS_Store
+
+# Local secrets
+.env
+.data/
+session*.json
+
+# Exported Telegram data
+data/
+*.jsonl
+
+# Go
+bin/
+coverage.out
